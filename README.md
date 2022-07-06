@@ -1,5 +1,5 @@
 # M365-Pro-2-Repair
-Guida e promemoria di tutte le riparazioni che ho dovuto fare sul monopattino xiaomi Pro 2
+Guida e promemoria di tutte le riparazioni che ho dovuto fare sul monopattino Xiaomi Pro 2
 
 
 Partiamo dal misfatto: il precedente proprietario urta contro uno scalino lateralmente alla ruota anteriore, proprio dove ci sono i fili del motore, tranciandoli e facendoli toccare insieme. Dopo questo evento il monopattino era completamente morto e decide quindi di venderlo per 30€.
